@@ -1,0 +1,1 @@
+This is a simple snooker game with html5 canvas tag and javascript
